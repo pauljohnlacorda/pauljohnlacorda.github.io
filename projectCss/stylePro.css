@@ -90,8 +90,10 @@ a{
 
 
 .d-inline-flex:hover{
-    background-color:#576cbc;
+    /* background-color:#576cbc; */
     cursor: pointer;
+    height: 2em;
+    border-bottom: #576cbc 1px solid;
 }
 p a:hover{
     background-color: #576cbc;
