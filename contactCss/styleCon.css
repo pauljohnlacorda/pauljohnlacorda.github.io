@@ -180,6 +180,7 @@ p{
     #right{
         position: relative;
         top: -35em;
+        background-color:#0b2447;
     } 
     /* .row{
        margin-left: auto;
